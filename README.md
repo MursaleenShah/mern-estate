@@ -1,6 +1,8 @@
 ## Overview
 
 This project is a comprehensive Real Estate application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The app features advanced authentication through JWT, Firebase, and Google OAuth for secure and seamless user access. Users can perform Create, Read, Update, and Delete operations for property listings using MongoDB. The application includes user-friendly features like image uploads, property listing management, and more, aiming to enhance the user experience. Moreover, it incorporates advanced search functionality, allowing users to efficiently find properties based on their preferences.
+![Homepage Screenshot](images/Screenshot%20(158).png "Homepage")
+![SearchPage Screenshot](images/Screenshot%20(166).png "SearchPage")
 
 ## Folder Structure
 
